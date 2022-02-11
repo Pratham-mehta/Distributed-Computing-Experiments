@@ -8,9 +8,9 @@
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/63767834/153545882-f2ad5b76-2b0f-41ed-9cb9-f3228a526e9a.png">
 
 ### To exit the connection from the client side:
-On client side
+On client side <br>
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/63767834/153545982-f5bb22a3-a111-4197-b3bc-211f87d8867d.png">
 
-On server side
+On server side <br>
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/63767834/153546038-f1792538-bf3b-49db-aeec-d0867e73f5c0.png">
 
