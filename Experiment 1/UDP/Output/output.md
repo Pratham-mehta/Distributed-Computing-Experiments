@@ -5,10 +5,10 @@
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/63767834/153550161-69b3ecaa-1699-4e65-9ab8-f91c1d537b25.png">
 
 ## Response from the Server:
-Server Side
+Server Side <br>
 <img width="160" alt="image" src="https://user-images.githubusercontent.com/63767834/153550260-3ceefd71-a372-42ed-a0b9-5fcbf21a1bfc.png">
 
-Client Side
+Client Side <br>
 <img width="107" alt="image" src="https://user-images.githubusercontent.com/63767834/153550351-b00aedc6-d853-4071-862f-adfa8319daab.png">
 
 
