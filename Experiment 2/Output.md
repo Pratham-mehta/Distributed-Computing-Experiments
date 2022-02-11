@@ -89,9 +89,9 @@ Multiplication <br>
 Division <br>
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/63767834/153605652-6fe61e7b-2600-421c-93e2-c30bd7e64e66.png">
 
-6. Disconnection from Server:
-**Client Side**
+6. Disconnection from Server:<br>
+**Client Side** <br>
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/63767834/153605771-ae4f5cc7-15f4-4a6c-9f63-e2d841698cca.png">
 
-**Server Side**
+**Server Side** <br>
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/63767834/153605798-8514c90e-6a98-4ae6-89e9-5198591bb518.png">
